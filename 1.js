@@ -1,4 +1,4 @@
-console.log('hello world')
+import {demo} from './3'
 
 function text(){
     console.log("text")
